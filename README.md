@@ -30,6 +30,10 @@ To evaluate the performance and robustness of the watermarking techniques, the f
 
 - **Normalized Cross-Correlation (NC)**: NC is used to measure the similarity between the original watermark and the extracted watermark. An NC value close to 1 indicates that the extracted watermark is highly similar to the original, suggesting that the watermarking method is robust.
 
+   ✔ - robust
+  
+  ❌ - not robust
+
 | Transformation            | D        | U        |
 |---------------------------|----------|----------|
 | JPEG Compression          | ✔        | ❌       |
@@ -41,5 +45,13 @@ To evaluate the performance and robustness of the watermarking techniques, the f
 
 
 
+## References
+[https://www.ijcaonline.org/ecot/number1/SPE134T.pdf](https://www.ijcaonline.org/ecot/number1/SPE134T.pdf)
+
+[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b35743b059adb66069991e46548f95827e6b51bc](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b35743b059adb66069991e46548f95827e6b51bc)
 
 
+## Students
+Vasilije Todorović
+
+Emilija Stevanović
